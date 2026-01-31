@@ -26,5 +26,15 @@ This is the frontend of the Smart Expense Tracker application built using Angula
 
 ## ⚙️ Running the Application
 
+## ⚙️ Running the Application
+
 1️⃣ Install dependencies:
+npm install
+
+2️⃣ Run development server:
+ng serve
+
+3️⃣ Open browser:
+http://localhost:4200
+
 
