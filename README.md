@@ -37,4 +37,6 @@ ng serve
 3️⃣ Open browser:
 http://localhost:4200
 
+## 🔗 Backend Repository
+https://github.com/anilamariyatm/smart-expense-backend
 
